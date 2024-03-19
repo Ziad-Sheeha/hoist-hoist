@@ -1,0 +1,5 @@
+{
+  "baseURL": "https://hoist-backend-demo.onrender.com/api/v1/",
+  "DevURL": "https://hoist-backend-demo.onrender.com/api/v1/",
+  "ProductionURL": "https://system-api.magicbroom.ae/api/"
+}

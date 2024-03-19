@@ -1,0 +1,20 @@
+{
+  "HOME": "Home",
+  "PRODUCTS": "Products",
+  "CATEGORY": "Category",
+  "PASS": "Password",
+  "EMAIL": "Email",
+  "REQUIRED": "is required",
+  "FORGOT_PASSWORD": "Forgot password ?",
+  "SIGN_IN": "Sign in",
+  "NAME": "Name",
+  "NAME_AR": "Name Arabic",
+  "NAME_EN": "Name English",
+  "DESCRIPTION": "Description",
+  "DESCRIPTION_AR": "Description Arabic",
+  "DESCRIPTION_EN": "description English",
+  "PARENT_CATEGORY": "Parent Category",
+
+  "HELLO": "welcome to website",
+  "HI": "Hello"
+}
